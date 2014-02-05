@@ -28,4 +28,4 @@ This plugin uses the API of blockchain.info and the data is cached for 15 min. T
 ```
 
 ## License
-Copyright (c) 2014 Vicente García. Licensed under the MIT license (http://www.opensource.org/licenses/mit-license.php)
+Copyright (c) 2014 Vicente García. Licensed under the MIT license.
